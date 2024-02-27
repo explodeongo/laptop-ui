@@ -10,3 +10,34 @@ body{
 font-family: 'Poppins',sans-serif;
 
 }
+header{
+display: flex;
+align-items: center;
+width: 90%;
+height: 10vh;
+margin: auto;
+
+}
+.logo-container,.nav-links,.cart{
+
+
+
+
+    
+}
+.logo-container{
+   
+    flex: 1;
+
+}
+nav{
+    
+    flex: 2;
+
+
+}
+.cart{
+    
+    flex: 1;
+
+}
